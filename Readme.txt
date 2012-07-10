@@ -1,1 +1,1 @@
-Pokusnı repozitáø
+Pokusnı repozitáø pro pokusy s GITem
